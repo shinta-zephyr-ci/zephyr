@@ -5,4 +5,4 @@ SPDX-License-Identifier: Apache-2.0
 
 # README
 
-This file is used to validate the Zephyr PR compliance workflow.
+This file is used to validate the Zephyr PR compliance test workflow.
