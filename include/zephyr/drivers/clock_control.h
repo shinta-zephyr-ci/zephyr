@@ -22,6 +22,11 @@
  * @version 1.0.0
  * @ingroup io_interfaces
  * @{
+ *
+ * @defgroup clock_control_interface_ext Device-specific Clock Control API extensions
+ *
+ * @{
+ * @}
  */
 
 #include <errno.h>
