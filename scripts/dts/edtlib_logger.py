@@ -31,3 +31,4 @@ def setup_edtlib_logging() -> None:
     logger = logging.getLogger('edtlib')
     logger.setLevel(logging.WARNING)
     logger.addHandler(handler)
+# CI validation: trigger devicetree script tests.
