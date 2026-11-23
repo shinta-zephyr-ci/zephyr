@@ -1,5 +1,6 @@
 # Zephyr documentation build configuration file.
 # Reference: https://www.sphinx-doc.org/en/master/usage/configuration.html
+# Add comment to check PR
 
 import os
 import re
