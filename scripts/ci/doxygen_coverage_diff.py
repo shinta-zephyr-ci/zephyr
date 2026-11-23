@@ -297,3 +297,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+# CI validation: trigger Doxygen coverage delta workflow.
