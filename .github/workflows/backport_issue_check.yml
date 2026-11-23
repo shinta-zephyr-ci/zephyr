@@ -20,7 +20,7 @@ jobs:
       group: backport-issue-check-${{ github.ref }}
       cancel-in-progress: true
     runs-on: ubuntu-24.04
-    if: github.repository == 'zephyrproject-rtos/zephyr'
+    if: github.repository == 'shinta-zephyr-ci/zephyr'
     permissions:
       issues: read # to check if associated issue exists for backport
 
